@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Wibucode: Web Tutorial Dan Komunitas</title>
+    <link>https://wibucode.com/tags/project/</link>
+    <description>Recent content in Project on Wibucode: Web Tutorial Dan Komunitas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:27:00 +0700</lastBuildDate><atom:link href="https://wibucode.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Re Zero - Landing Page</title>
+      <link>https://wibucode.com/project/posts2/</link>
+      <pubDate>Fri, 01 Jan 2021 00:27:00 +0700</pubDate>
+      
+      <guid>https://wibucode.com/project/posts2/</guid>
+      <description>Deskripsi: Re Zero adalah hasil slicing dari desain UI/UX landing page Anime yang pertamakali di Wibucode.</description>
+    </item>
+    
+    <item>
+      <title>Happy Programming Years - Landing Page</title>
+      <link>https://wibucode.com/project/posts1/</link>
+      <pubDate>Sun, 27 Dec 2020 22:40:04 +0700</pubDate>
+      
+      <guid>https://wibucode.com/project/posts1/</guid>
+      <description>Deskripsi: Ini merupakan hasil slicing dari desain UI/UX landing page yang di buat untuk kontes event web desain WPU.</description>
+    </item>
+    
+    <item>
+      <title>Sandhika Galih - Landing Page</title>
+      <link>https://wibucode.com/project/posts/</link>
+      <pubDate>Sat, 19 Dec 2020 21:58:15 +0800</pubDate>
+      
+      <guid>https://wibucode.com/project/posts/</guid>
+      <description>Deskripsi: Ini adalah hasil slicing dari desain UI/UX landing page. Konsepnya portofolio simpel dan sederhana mengambil refrensi Sandhika Galih sebagai model desainya.</description>
+    </item>
+    
+  </channel>
+</rss>

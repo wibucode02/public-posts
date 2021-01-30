@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Wibucode: Web Tutorial Dan Komunitas</title>
+    <link>https://wibucode.com/tags/hugo/</link>
+    <description>Recent content in Hugo on Wibucode: Web Tutorial Dan Komunitas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Mon, 04 Jan 2021 19:45:37 +0700</lastBuildDate><atom:link href="https://wibucode.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Install Hugo Di Linux</title>
+      <link>https://wibucode.com/p/hugo/hugo-install-linux/</link>
+      <pubDate>Mon, 04 Jan 2021 19:45:37 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/hugo/hugo-install-linux/</guid>
+      <description>1.Kunjungi laman tersebut https://github.com/gohugoio/hugo/releases. Jika kawan memakai Distro turunan Debian atau Ubuntu, kawan bisa langsung memilih paket yang berekstensi (.</description>
+    </item>
+    
+    <item>
+      <title>Menjalankan Hugo Di Local</title>
+      <link>https://wibucode.com/p/hugo/menjalankan-hugo-di-local/</link>
+      <pubDate>Sun, 03 Jan 2021 19:36:52 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/hugo/menjalankan-hugo-di-local/</guid>
+      <description>Masih berlanjut pembelajaran Hugo kita, sebelum nya sudah membahas cara install hugo pada sistem operasi windows klik di sini bagi yang belum baca.</description>
+    </item>
+    
+    <item>
+      <title>Cara Install Hugo Di Windows</title>
+      <link>https://wibucode.com/p/hugo/hugo-install-windows/</link>
+      <pubDate>Thu, 24 Dec 2020 10:12:35 +0800</pubDate>
+      
+      <guid>https://wibucode.com/p/hugo/hugo-install-windows/</guid>
+      <description>Hi, pada kesempatan kali ini saya akan membuatkan tutorial Cara isntall Hugo di Windows.</description>
+    </item>
+    
+    <item>
+      <title>Pengenalan Hugo</title>
+      <link>https://wibucode.com/p/hugo/pengenalan/</link>
+      <pubDate>Sun, 20 Dec 2020 17:14:09 +0800</pubDate>
+      
+      <guid>https://wibucode.com/p/hugo/pengenalan/</guid>
+      <description>Apa sih Hugo itu? &amp;ldquo;Hugo&amp;rdquo; ya bukan &amp;ldquo;Hago&amp;rdquo; itu beda lagi.</description>
+    </item>
+    
+  </channel>
+</rss>

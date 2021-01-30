@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Wibucode: Web Tutorial Dan Komunitas</title>
+    <link>https://wibucode.com/categories/</link>
+    <description>Recent content in Categories on Wibucode: Web Tutorial Dan Komunitas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 30 Jan 2021 15:32:17 +0700</lastBuildDate><atom:link href="https://wibucode.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ui-design</title>
+      <link>https://wibucode.com/categories/ui-design/</link>
+      <pubDate>Sat, 30 Jan 2021 15:32:17 +0700</pubDate>
+      
+      <guid>https://wibucode.com/categories/ui-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontributor</title>
+      <link>https://wibucode.com/categories/kontributor/</link>
+      <pubDate>Mon, 18 Jan 2021 11:03:35 +0700</pubDate>
+      
+      <guid>https://wibucode.com/categories/kontributor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rekomendasi</title>
+      <link>https://wibucode.com/categories/rekomendasi/</link>
+      <pubDate>Mon, 18 Jan 2021 11:03:35 +0700</pubDate>
+      
+      <guid>https://wibucode.com/categories/rekomendasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://wibucode.com/categories/linux/</link>
+      <pubDate>Fri, 15 Jan 2021 10:42:00 +0700</pubDate>
+      
+      <guid>https://wibucode.com/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>https://wibucode.com/categories/html/</link>
+      <pubDate>Wed, 13 Jan 2021 06:34:19 +0835</pubDate>
+      
+      <guid>https://wibucode.com/categories/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://wibucode.com/categories/hugo/</link>
+      <pubDate>Mon, 04 Jan 2021 19:45:37 +0700</pubDate>
+      
+      <guid>https://wibucode.com/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

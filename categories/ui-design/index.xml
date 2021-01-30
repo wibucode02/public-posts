@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ui-design on Wibucode: Web Tutorial Dan Komunitas</title>
+    <link>https://wibucode.com/categories/ui-design/</link>
+    <description>Recent content in ui-design on Wibucode: Web Tutorial Dan Komunitas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 30 Jan 2021 15:32:17 +0700</lastBuildDate><atom:link href="https://wibucode.com/categories/ui-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wibucode UI App</title>
+      <link>https://wibucode.com/ui-design/wibucode-ui-app/</link>
+      <pubDate>Sat, 30 Jan 2021 15:32:17 +0700</pubDate>
+      
+      <guid>https://wibucode.com/ui-design/wibucode-ui-app/</guid>
+      <description>Deskripsi : Wibucdoe App adalah sebuah Aplikasi yang menyediakan tutotrial pemograman dan ui/ux.</description>
+    </item>
+    
+  </channel>
+</rss>

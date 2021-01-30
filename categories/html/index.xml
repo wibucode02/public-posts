@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on Wibucode: Web Tutorial Dan Komunitas</title>
+    <link>https://wibucode.com/categories/html/</link>
+    <description>Recent content in Html on Wibucode: Web Tutorial Dan Komunitas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Wed, 13 Jan 2021 06:34:19 +0835</lastBuildDate><atom:link href="https://wibucode.com/categories/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belajar Html 2</title>
+      <link>https://wibucode.com/p/html/belajar-html-2/</link>
+      <pubDate>Wed, 13 Jan 2021 06:34:19 +0835</pubDate>
+      
+      <guid>https://wibucode.com/p/html/belajar-html-2/</guid>
+      <description>Pada artikel sebelumnya kita sudah mempelajari struktur dari Html berserta fungsi-fungsinya.</description>
+    </item>
+    
+    <item>
+      <title>Belajar Html 1</title>
+      <link>https://wibucode.com/p/html/belajar-html-1/</link>
+      <pubDate>Tue, 12 Jan 2021 06:34:19 +0735</pubDate>
+      
+      <guid>https://wibucode.com/p/html/belajar-html-1/</guid>
+      <description>Pada materi sebelumnya kita sudah belajar mengenal siapa sih penemu Html dan tujuan pembuatanya untuk apa, bagi teman-teman yang belum membacanya klik here</description>
+    </item>
+    
+    <item>
+      <title>Pengenalan Html</title>
+      <link>https://wibucode.com/p/html/pengenalan-html/</link>
+      <pubDate>Mon, 11 Jan 2021 06:34:19 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/html/pengenalan-html/</guid>
+      <description>Sebelum masuk ke pembahasan materi pembelajaran mengenai Html, alangkah baiknya teman-teman dapat mengenal apa itu Html dan siapa pembuatnya.</description>
+    </item>
+    
+  </channel>
+</rss>

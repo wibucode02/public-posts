@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ui -designs on Wibucode: Web Tutorial Dan Komunitas</title>
+    <link>https://wibucode.com/ui-design/</link>
+    <description>Recent content in Ui -designs on Wibucode: Web Tutorial Dan Komunitas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 30 Jan 2021 15:32:17 +0700</lastBuildDate><atom:link href="https://wibucode.com/ui-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wibucode UI App</title>
+      <link>https://wibucode.com/ui-design/wibucode-ui-app/</link>
+      <pubDate>Sat, 30 Jan 2021 15:32:17 +0700</pubDate>
+      
+      <guid>https://wibucode.com/ui-design/wibucode-ui-app/</guid>
+      <description>Deskripsi : Wibucdoe App adalah sebuah Aplikasi yang menyediakan tutotrial pemograman dan ui/ux.</description>
+    </item>
+    
+    <item>
+      <title>Mobile App UI WibuStream</title>
+      <link>https://wibucode.com/ui-design/wibustream-app/</link>
+      <pubDate>Wed, 13 Jan 2021 15:53:52 +0700</pubDate>
+      
+      <guid>https://wibucode.com/ui-design/wibustream-app/</guid>
+      <description>Deskripsi : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
+    </item>
+    
+    <item>
+      <title>WibuStream</title>
+      <link>https://wibucode.com/ui-design/wibustream/</link>
+      <pubDate>Sun, 10 Jan 2021 08:54:08 +0700</pubDate>
+      
+      <guid>https://wibucode.com/ui-design/wibustream/</guid>
+      <description>Deskripsi : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
+    </item>
+    
+    <item>
+      <title>Landing Page Zero Two</title>
+      <link>https://wibucode.com/ui-design/landing-page-zero-two/</link>
+      <pubDate>Wed, 06 Jan 2021 10:25:03 +0700</pubDate>
+      
+      <guid>https://wibucode.com/ui-design/landing-page-zero-two/</guid>
+      <description>Description: Landing page - Anime
+
+Tools:
+ Figma</description>
+    </item>
+    
+  </channel>
+</rss>

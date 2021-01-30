@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Wibucode: Web Tutorial Dan Komunitas</title>
+    <link>https://wibucode.com/categories/linux/</link>
+    <description>Recent content in Linux on Wibucode: Web Tutorial Dan Komunitas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Fri, 15 Jan 2021 10:42:00 +0700</lastBuildDate><atom:link href="https://wibucode.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Install WPS Office Di Linux</title>
+      <link>https://wibucode.com/p/linux/cara-install-wps-office-di-linux/</link>
+      <pubDate>Fri, 15 Jan 2021 10:42:00 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/linux/cara-install-wps-office-di-linux/</guid>
+      <description>Bagi teman-teman yang baru pindah ke Linux tentu akan merasa gerah ketika tidak bisa mengunakan atau menginstall Microsoft Office karena Microsoft Office hanya dapat di jalankan pada sistem operasi windows.</description>
+    </item>
+    
+    <item>
+      <title>Cara Install Blender Di Linux</title>
+      <link>https://wibucode.com/p/linux/cara-install-blender-di-linux/</link>
+      <pubDate>Wed, 13 Jan 2021 06:09:12 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/linux/cara-install-blender-di-linux/</guid>
+      <description>Sebelum ke tutorial instalisi alangkah baiknya, teman-teman tau apa itu Blender bagi yang belum tau.</description>
+    </item>
+    
+    <item>
+      <title>Instalisasi Microsoft Office Di Lubuntu</title>
+      <link>https://wibucode.com/p/kontributor/instalisasi-microsoft-office-di-lubuntu/</link>
+      <pubDate>Fri, 08 Jan 2021 17:56:06 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/kontributor/instalisasi-microsoft-office-di-lubuntu/</guid>
+      <description>Hai semua,Kali ini WibuCode akan membagikan tutorial Instalasi Microsoft Office di Linux Ubuntu loh!</description>
+    </item>
+    
+    <item>
+      <title>Cara Install Hugo Di Linux</title>
+      <link>https://wibucode.com/p/hugo/hugo-install-linux/</link>
+      <pubDate>Mon, 04 Jan 2021 19:45:37 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/hugo/hugo-install-linux/</guid>
+      <description>1.Kunjungi laman tersebut https://github.com/gohugoio/hugo/releases. Jika kawan memakai Distro turunan Debian atau Ubuntu, kawan bisa langsung memilih paket yang berekstensi (.</description>
+    </item>
+    
+    <item>
+      <title>Sharing Pengalaman Setelah Pindah Dari Windows Ke Linux</title>
+      <link>https://wibucode.com/p/linux/pindah-ke-linux/</link>
+      <pubDate>Thu, 31 Dec 2020 16:41:03 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/linux/pindah-ke-linux/</guid>
+      <description>Pada kesempatan kali ini saya akan berbagi penglaman yang saya alami setelah pindah dari sistem operasi yang saya gunakan dulu yakni Windows ke sitem operasi yang saya gunakan sekaran Linux.</description>
+    </item>
+    
+  </channel>
+</rss>
