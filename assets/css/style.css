@@ -71,6 +71,11 @@ img {
    height: 250px !important;
 }
 
+.steke{
+   position: sticky !important;
+   top: 0 !important;
+}
+
 /* Navbar */
 
 .navbar {
