@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Wibucode: Web Tutorial Dan Komunitas</title>
+    <link>https://wibucode.com/categories/project/</link>
+    <description>Recent content in Project on Wibucode: Web Tutorial Dan Komunitas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 20 Feb 2021 04:48:14 +0700</lastBuildDate><atom:link href="https://wibucode.com/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kalkulator App</title>
+      <link>https://wibucode.com/project/posts4/</link>
+      <pubDate>Sat, 20 Feb 2021 04:48:14 +0700</pubDate>
+      
+      <guid>https://wibucode.com/project/posts4/</guid>
+      <description>Deskripsi: Ini adalah hasil slicing dari desain Andre Rio. konsepnya adalah sebuah aplikasi calculator sederhana yang di buat menggunakan framework tailwind dan di compile ke aplikasi android apk dengan menggunakan cordova.</description>
+    </item>
+    
+    <item>
+      <title>Zero Two Hero - Landing Page</title>
+      <link>https://wibucode.com/project/posts3/</link>
+      <pubDate>Tue, 02 Feb 2021 16:30:36 +0700</pubDate>
+      
+      <guid>https://wibucode.com/project/posts3/</guid>
+      <description>Deskripsi: Zero Two Hero adalah hasil slicing dari desain UI/UX landing page Anime yang kami buat.</description>
+    </item>
+    
+  </channel>
+</rss>
