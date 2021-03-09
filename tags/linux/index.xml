@@ -6,7 +6,16 @@
     <description>Recent content in Linux on Wibucode: Web Tutorial Dan Komunitas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Fri, 15 Jan 2021 10:42:00 +0700</lastBuildDate><atom:link href="https://wibucode.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 14:31:47 +0700</lastBuildDate><atom:link href="https://wibucode.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Install Paru Di Linux</title>
+      <link>https://wibucode.com/p/linux/cara-install-paru-di-linux/</link>
+      <pubDate>Tue, 09 Mar 2021 14:31:47 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/linux/cara-install-paru-di-linux/</guid>
+      <description>Bagi kamu penguna Linux apalagi masih pemula pasti akan merasa kesulitan dalam menginstall sebuah software&amp;quot; tidak seperti di Windows yang hanya tinggal mengklik kanan saja dan sudah langsung terisntall namun di Linux berbeda.</description>
+    </item>
+    
     <item>
       <title>Cara Install WPS Office Di Linux</title>
       <link>https://wibucode.com/p/linux/cara-install-wps-office-di-linux/</link>
@@ -23,15 +32,6 @@
       
       <guid>https://wibucode.com/p/linux/cara-install-blender-di-linux/</guid>
       <description>Sebelum ke tutorial instalisi alangkah baiknya, teman-teman tau apa itu Blender bagi yang belum tau.</description>
-    </item>
-    
-    <item>
-      <title>Instalisasi Microsoft Office Di Lubuntu</title>
-      <link>https://wibucode.com/p/kontributor/instalisasi-microsoft-office-di-lubuntu/</link>
-      <pubDate>Fri, 08 Jan 2021 17:56:06 +0700</pubDate>
-      
-      <guid>https://wibucode.com/p/kontributor/instalisasi-microsoft-office-di-lubuntu/</guid>
-      <description>Hai semua,Kali ini WibuCode akan membagikan tutorial Instalasi Microsoft Office di Linux Ubuntu loh!</description>
     </item>
     
     <item>
