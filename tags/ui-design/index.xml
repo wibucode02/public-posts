@@ -6,14 +6,23 @@
     <description>Recent content in UI Design on Wibucode: Web Tutorial Dan Komunitas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Sat, 30 Jan 2021 15:32:17 +0700</lastBuildDate><atom:link href="https://wibucode.com/tags/ui-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Mar 2021 14:20:35 +0700</lastBuildDate><atom:link href="https://wibucode.com/tags/ui-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wibucode Dashboard Ui</title>
+      <link>https://wibucode.com/ui-design/wibucode-dashboard-ui/</link>
+      <pubDate>Sun, 21 Mar 2021 14:20:35 +0700</pubDate>
+      
+      <guid>https://wibucode.com/ui-design/wibucode-dashboard-ui/</guid>
+      <description>Description : Wibucode Dashboard merupakan desing admin Dashboard yang di gunakan untuk mencatat trafik pengunjung di website mulai dari penurunan dan penaikan.</description>
+    </item>
+    
     <item>
       <title>Wibucode UI App</title>
       <link>https://wibucode.com/ui-design/wibucode-ui-app/</link>
       <pubDate>Sat, 30 Jan 2021 15:32:17 +0700</pubDate>
       
       <guid>https://wibucode.com/ui-design/wibucode-ui-app/</guid>
-      <description>Deskripsi : Wibucdoe App adalah sebuah Aplikasi yang menyediakan tutotrial pemograman dan ui/ux.</description>
+      <description>Description : Wibucode App adalah sebuah Aplikasi yang menyediakan tutotrial pemograman dan ui/ux.</description>
     </item>
     
     <item>
@@ -22,7 +31,7 @@
       <pubDate>Wed, 13 Jan 2021 15:53:52 +0700</pubDate>
       
       <guid>https://wibucode.com/ui-design/wibustream-app/</guid>
-      <description>Deskripsi : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
+      <description>Description : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
     </item>
     
     <item>
@@ -31,7 +40,7 @@
       <pubDate>Sun, 10 Jan 2021 08:54:08 +0700</pubDate>
       
       <guid>https://wibucode.com/ui-design/wibustream/</guid>
-      <description>Deskripsi : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
+      <description>Description : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
     </item>
     
     <item>
@@ -40,7 +49,7 @@
       <pubDate>Wed, 06 Jan 2021 10:25:03 +0700</pubDate>
       
       <guid>https://wibucode.com/ui-design/landing-page-zero-two/</guid>
-      <description>Description: Landing page - Anime
+      <description>Description : Landing page - Anime
 
 Tools:
  Figma</description>

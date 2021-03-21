@@ -6,23 +6,32 @@
     <description>Recent content in Pdf on Wibucode: Web Tutorial Dan Komunitas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Thu, 18 Mar 2021 16:44:11 +0700</lastBuildDate><atom:link href="https://wibucode.com/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Mar 2021 14:03:17 +0700</lastBuildDate><atom:link href="https://wibucode.com/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pengenalan Pemograman Ruby</title>
+      <link>https://wibucode.com/pdf/pengenalan-pemrograman-ruby/</link>
+      <pubDate>Sun, 21 Mar 2021 14:03:17 +0700</pubDate>
+      
+      <guid>https://wibucode.com/pdf/pengenalan-pemrograman-ruby/</guid>
+      <description>Description: PDF ini merupakan pengenalan dari bahasa pemrograman Ruby , di khusukan bagi yang sama sekali belum mengenal bahasa pemrograman Ruby.</description>
+    </item>
+    
     <item>
       <title>Buku Belajar Java Untuk Pemula</title>
       <link>https://wibucode.com/pdf/buku-belajar-java-untuk-pemula/</link>
       <pubDate>Thu, 18 Mar 2021 16:44:11 +0700</pubDate>
       
       <guid>https://wibucode.com/pdf/buku-belajar-java-untuk-pemula/</guid>
-      <description>Deskripsi: Salah Satu bahasa pemrograman yang populer saat ini yang digunakan untuk membuat aplikasi adalah Java.</description>
+      <description>Description: Salah Satu bahasa pemrograman yang populer saat ini yang digunakan untuk membuat aplikasi adalah Java.</description>
     </item>
     
     <item>
-      <title>Belajar Pemograman Python Dasar</title>
-      <link>https://wibucode.com/pdf/belajar-pemograman-python-dasar/</link>
+      <title>Belajar Pemrograman Python Dasar</title>
+      <link>https://wibucode.com/pdf/belajar-pemrograman-python-dasar/</link>
       <pubDate>Wed, 17 Mar 2021 09:53:23 +0700</pubDate>
       
-      <guid>https://wibucode.com/pdf/belajar-pemograman-python-dasar/</guid>
-      <description>Deskripsi: Buku ini ditulis dengan menggunakan Libre Writer 3.3 dan dikonversi ke PDF dengan menggunakan software yang sama.</description>
+      <guid>https://wibucode.com/pdf/belajar-pemrograman-python-dasar/</guid>
+      <description>Description: Buku ini ditulis dengan menggunakan Libre Writer 3.3 dan dikonversi ke PDF dengan menggunakan software yang sama.</description>
     </item>
     
     <item>
@@ -31,7 +40,7 @@
       <pubDate>Fri, 05 Mar 2021 16:11:10 +0700</pubDate>
       
       <guid>https://wibucode.com/pdf/jalur-belajar-web-development-2021-untuk-pemula/</guid>
-      <description>Deskripsi: Pdf berisi panduan jalur belajar Web Development secara berurutan untuk pemula.</description>
+      <description>Description: Pdf berisi panduan jalur belajar Web Development secara berurutan untuk pemula.</description>
     </item>
     
   </channel>

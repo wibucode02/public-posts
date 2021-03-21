@@ -6,23 +6,41 @@
     <description>Recent content on Wibucode: Web Tutorial Dan Komunitas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Thu, 18 Mar 2021 16:44:11 +0700</lastBuildDate><atom:link href="https://wibucode.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Mar 2021 14:20:35 +0700</lastBuildDate><atom:link href="https://wibucode.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wibucode Dashboard Ui</title>
+      <link>https://wibucode.com/ui-design/wibucode-dashboard-ui/</link>
+      <pubDate>Sun, 21 Mar 2021 14:20:35 +0700</pubDate>
+      
+      <guid>https://wibucode.com/ui-design/wibucode-dashboard-ui/</guid>
+      <description>Description : Wibucode Dashboard merupakan desing admin Dashboard yang di gunakan untuk mencatat trafik pengunjung di website mulai dari penurunan dan penaikan.</description>
+    </item>
+    
+    <item>
+      <title>Pengenalan Pemograman Ruby</title>
+      <link>https://wibucode.com/pdf/pengenalan-pemrograman-ruby/</link>
+      <pubDate>Sun, 21 Mar 2021 14:03:17 +0700</pubDate>
+      
+      <guid>https://wibucode.com/pdf/pengenalan-pemrograman-ruby/</guid>
+      <description>Description: PDF ini merupakan pengenalan dari bahasa pemrograman Ruby , di khusukan bagi yang sama sekali belum mengenal bahasa pemrograman Ruby.</description>
+    </item>
+    
     <item>
       <title>Buku Belajar Java Untuk Pemula</title>
       <link>https://wibucode.com/pdf/buku-belajar-java-untuk-pemula/</link>
       <pubDate>Thu, 18 Mar 2021 16:44:11 +0700</pubDate>
       
       <guid>https://wibucode.com/pdf/buku-belajar-java-untuk-pemula/</guid>
-      <description>Deskripsi: Salah Satu bahasa pemrograman yang populer saat ini yang digunakan untuk membuat aplikasi adalah Java.</description>
+      <description>Description: Salah Satu bahasa pemrograman yang populer saat ini yang digunakan untuk membuat aplikasi adalah Java.</description>
     </item>
     
     <item>
-      <title>Belajar Pemograman Python Dasar</title>
-      <link>https://wibucode.com/pdf/belajar-pemograman-python-dasar/</link>
+      <title>Belajar Pemrograman Python Dasar</title>
+      <link>https://wibucode.com/pdf/belajar-pemrograman-python-dasar/</link>
       <pubDate>Wed, 17 Mar 2021 09:53:23 +0700</pubDate>
       
-      <guid>https://wibucode.com/pdf/belajar-pemograman-python-dasar/</guid>
-      <description>Deskripsi: Buku ini ditulis dengan menggunakan Libre Writer 3.3 dan dikonversi ke PDF dengan menggunakan software yang sama.</description>
+      <guid>https://wibucode.com/pdf/belajar-pemrograman-python-dasar/</guid>
+      <description>Description: Buku ini ditulis dengan menggunakan Libre Writer 3.3 dan dikonversi ke PDF dengan menggunakan software yang sama.</description>
     </item>
     
     <item>
@@ -49,7 +67,7 @@
       <pubDate>Fri, 05 Mar 2021 16:11:10 +0700</pubDate>
       
       <guid>https://wibucode.com/pdf/jalur-belajar-web-development-2021-untuk-pemula/</guid>
-      <description>Deskripsi: Pdf berisi panduan jalur belajar Web Development secara berurutan untuk pemula.</description>
+      <description>Description: Pdf berisi panduan jalur belajar Web Development secara berurutan untuk pemula.</description>
     </item>
     
     <item>
@@ -76,7 +94,7 @@
       <pubDate>Sat, 20 Feb 2021 04:48:14 +0700</pubDate>
       
       <guid>https://wibucode.com/project/posts4/</guid>
-      <description>Deskripsi: Ini adalah hasil slicing dari desain Andre Rio. konsepnya adalah sebuah aplikasi calculator sederhana yang di buat menggunakan framework tailwind dan di compile ke aplikasi android apk dengan menggunakan cordova.</description>
+      <description>Description: Ini adalah hasil slicing dari desain Andre Rio. konsepnya adalah sebuah aplikasi calculator sederhana yang di buat menggunakan framework tailwind dan di compile ke aplikasi android apk dengan menggunakan cordova.</description>
     </item>
     
     <item>
@@ -95,7 +113,7 @@ Tenang saja, kali ini saya akan memberikan cara agar kita dapat menganti tampila
       <pubDate>Tue, 02 Feb 2021 16:30:36 +0700</pubDate>
       
       <guid>https://wibucode.com/project/posts3/</guid>
-      <description>Deskripsi: Zero Two Hero adalah hasil slicing dari desain UI/UX landing page Anime yang kami buat.</description>
+      <description>Description: Zero Two Hero adalah hasil slicing dari desain UI/UX landing page Anime yang kami buat.</description>
     </item>
     
     <item>
@@ -104,7 +122,7 @@ Tenang saja, kali ini saya akan memberikan cara agar kita dapat menganti tampila
       <pubDate>Sat, 30 Jan 2021 15:32:17 +0700</pubDate>
       
       <guid>https://wibucode.com/ui-design/wibucode-ui-app/</guid>
-      <description>Deskripsi : Wibucdoe App adalah sebuah Aplikasi yang menyediakan tutotrial pemograman dan ui/ux.</description>
+      <description>Description : Wibucode App adalah sebuah Aplikasi yang menyediakan tutotrial pemograman dan ui/ux.</description>
     </item>
     
     <item>
@@ -159,7 +177,7 @@ Extensions merupakan tools yang dapat kita gunakan agar membantu pekerjaan/kebut
       <pubDate>Wed, 13 Jan 2021 15:53:52 +0700</pubDate>
       
       <guid>https://wibucode.com/ui-design/wibustream-app/</guid>
-      <description>Deskripsi : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
+      <description>Description : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
     </item>
     
     <item>
@@ -204,7 +222,7 @@ Extensions merupakan tools yang dapat kita gunakan agar membantu pekerjaan/kebut
       <pubDate>Sun, 10 Jan 2021 08:54:08 +0700</pubDate>
       
       <guid>https://wibucode.com/ui-design/wibustream/</guid>
-      <description>Deskripsi : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
+      <description>Description : WibuStream adalah sebuah website penyedia layanan streaming Anime dengan film yang lengkap dan selalu update setiap hari.</description>
     </item>
     
     <item>
@@ -258,7 +276,7 @@ Extensions merupakan tools yang dapat kita gunakan agar membantu pekerjaan/kebut
       <pubDate>Wed, 06 Jan 2021 10:25:03 +0700</pubDate>
       
       <guid>https://wibucode.com/ui-design/landing-page-zero-two/</guid>
-      <description>Description: Landing page - Anime
+      <description>Description : Landing page - Anime
 
 Tools:
  Figma</description>
@@ -288,7 +306,7 @@ Tools:
       <pubDate>Fri, 01 Jan 2021 00:27:00 +0700</pubDate>
       
       <guid>https://wibucode.com/project/posts2/</guid>
-      <description>Deskripsi: Re Zero adalah hasil slicing dari desain UI/UX landing page Anime yang pertamakali di Wibucode.</description>
+      <description>Description: Re Zero adalah hasil slicing dari desain UI/UX landing page Anime yang pertamakali di Wibucode.</description>
     </item>
     
     <item>
@@ -306,7 +324,7 @@ Tools:
       <pubDate>Sun, 27 Dec 2020 22:40:04 +0700</pubDate>
       
       <guid>https://wibucode.com/project/posts1/</guid>
-      <description>Deskripsi: Ini merupakan hasil slicing dari desain UI/UX landing page yang di buat untuk kontes event web desain WPU.</description>
+      <description>Description: Ini merupakan hasil slicing dari desain UI/UX landing page yang di buat untuk kontes event web desain WPU.</description>
     </item>
     
     <item>
@@ -333,7 +351,7 @@ Tools:
       <pubDate>Sat, 19 Dec 2020 21:58:15 +0800</pubDate>
       
       <guid>https://wibucode.com/project/posts/</guid>
-      <description>Deskripsi: Ini adalah hasil slicing dari desain UI/UX landing page. Konsepnya portofolio simpel dan sederhana mengambil refrensi Sandhika Galih sebagai model desainya.</description>
+      <description>Description: Ini adalah hasil slicing dari desain UI/UX landing page. Konsepnya portofolio simpel dan sederhana mengambil refrensi Sandhika Galih sebagai model desainya.</description>
     </item>
     
     <item>
