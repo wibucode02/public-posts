@@ -349,6 +349,13 @@ img {
    color: #6c757d !important;
 }
 
+
+#disqus_thread > iframe[src*="ads-iframe"] {
+   display: none !important;
+}
+
+
+
 /* News Letter */
 .news-let {
    margin-top: 10rem !important;
