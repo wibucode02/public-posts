@@ -76,17 +76,26 @@
             a.appendChild(r);
         })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
     </script>
+
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+    window.OneSignal = window.OneSignal || [];
+    OneSignal.push(function() {
+        OneSignal.init({
+        appId: "307a4e6b-ecd8-4cea-9cb6-1b687d36e90d",
+        });
+    });
+    </script>
     
     
     <meta name="theme-color" content="#388794"> 
     <meta name="msapplication-TileColor" content="#388794">
-
     
     <link rel="shortcut icon" href="https://cdn.statically.io/gh/wibucode02/cdn-wibucode-img/main/logo.png">
 
     
     <link href="https://cdn.statically.io/gh/wibucode02/wibucode-cdn/main/syntax.css" type="text/css" rel="stylesheet" media="screen"/>
-    <link href="/css/style.css" type="text/css" rel="stylesheet" media="screen"/>
+    <link href="https://cdn.statically.io/gh/wibucode02/wibucode-cdn/main/style.css" type="text/css" rel="stylesheet" media="screen"/>
     <link href="https://cdn.statically.io/gh/wibucode02/wibucode-cdn/main/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
         integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
