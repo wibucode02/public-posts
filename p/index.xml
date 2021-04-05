@@ -6,7 +6,16 @@
     <description>Recent content in Ps on Wibucode: Web Tutorial Dan Komunitas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Thu, 01 Apr 2021 22:38:38 +0700</lastBuildDate><atom:link href="https://wibucode.com/p/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Apr 2021 15:08:18 +0700</lastBuildDate><atom:link href="https://wibucode.com/p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#3 Belajar Membuat Website Sederhana Mengunakan HTML</title>
+      <link>https://wibucode.com/p/html/belajar-html-3/</link>
+      <pubDate>Sun, 04 Apr 2021 15:08:18 +0700</pubDate>
+      
+      <guid>https://wibucode.com/p/html/belajar-html-3/</guid>
+      <description>Belajar Membuat Website Sederhana Mengunakan HTML - Melanjutkan materi kita yang sebelumnya belajar mengenai HTML kita akan coba membuat website sederhana sekali hanya mengunakan HTML ini benar-benar basic khusus untuk pemula.</description>
+    </item>
+    
     <item>
       <title>Apa Sih Stackoverflow Itu?</title>
       <link>https://wibucode.com/p/lainya/apa-sih-stackoverflow-itu/</link>
@@ -136,7 +145,7 @@ Extensions merupakan tools yang dapat kita gunakan agar membantu pekerjaan/kebut
     </item>
     
     <item>
-      <title>Belajar Html 2</title>
+      <title>#2 Belajar Menjalankan HTML Di Webrowser</title>
       <link>https://wibucode.com/p/html/belajar-html-2/</link>
       <pubDate>Wed, 13 Jan 2021 06:34:19 +0835</pubDate>
       
@@ -145,7 +154,7 @@ Extensions merupakan tools yang dapat kita gunakan agar membantu pekerjaan/kebut
     </item>
     
     <item>
-      <title>Belajar Html 1</title>
+      <title>#1 Belajar Struktur Pada HTML</title>
       <link>https://wibucode.com/p/html/belajar-html-1/</link>
       <pubDate>Tue, 12 Jan 2021 06:34:19 +0735</pubDate>
       
@@ -190,7 +199,7 @@ Extensions merupakan tools yang dapat kita gunakan agar membantu pekerjaan/kebut
     </item>
     
     <item>
-      <title>Menjalankan Hugo Di Local</title>
+      <title>#1 Menjalankan Hugo Di Local</title>
       <link>https://wibucode.com/p/hugo/menjalankan-hugo-di-local/</link>
       <pubDate>Sun, 03 Jan 2021 19:36:52 +0700</pubDate>
       
