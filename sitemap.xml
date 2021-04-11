@@ -1,363 +1,219 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://wibucode.com/p/webdev/cara-membuat-newsletter-di-website/</loc>
     <lastmod>2021-04-09T08:41:07+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/categories/</loc>
     <lastmod>2021-04-09T08:41:07+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/</loc>
     <lastmod>2021-04-09T08:41:07+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/</loc>
     <lastmod>2021-04-09T08:41:07+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/webdev/</loc>
     <lastmod>2021-04-09T08:41:07+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/categories/webdev/</loc>
     <lastmod>2021-04-09T08:41:07+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/</loc>
     <lastmod>2021-04-09T08:41:07+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/html/belajar-html-3/</loc>
     <lastmod>2021-04-04T15:08:18+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/html/</loc>
     <lastmod>2021-04-04T15:08:18+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/categories/html/</loc>
     <lastmod>2021-04-04T15:08:18+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/lainya/apa-sih-stackoverflow-itu/</loc>
     <lastmod>2021-04-01T22:38:38+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/lainya/</loc>
     <lastmod>2021-04-01T22:38:38+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/categories/lainya/</loc>
     <lastmod>2021-04-01T22:38:38+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/rekomendasi/bagaimana-caranya-menjadi-seorang-programmer/</loc>
     <lastmod>2021-03-26T17:33:18+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/rekomendasi/</loc>
     <lastmod>2021-03-26T17:33:18+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/categories/rekomendasi/</loc>
     <lastmod>2021-03-26T17:33:18+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/lainya/gratis-download-animestream-wordpress-themes/</loc>
     <lastmod>2021-03-22T12:53:29+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/ui-design/</loc>
     <lastmod>2021-03-21T14:20:35+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/ui-design/</loc>
     <lastmod>2021-03-21T14:20:35+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/ui-design/wibucode-dashboard-ui/</loc>
     <lastmod>2021-03-21T14:20:35+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/pdf/</loc>
     <lastmod>2021-03-21T14:03:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/pdf/</loc>
     <lastmod>2021-03-21T14:03:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/pdf/pengenalan-pemrograman-ruby/</loc>
     <lastmod>2021-03-21T14:03:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/pdf/buku-belajar-java-untuk-pemula/</loc>
     <lastmod>2021-03-18T16:44:11+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/pdf/belajar-pemrograman-python-dasar/</loc>
     <lastmod>2021-03-17T09:53:23+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/linux/alasan-mengapa-kamu-ragu-mengunakan-linux/</loc>
     <lastmod>2021-03-11T14:55:50+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/linux/</loc>
     <lastmod>2021-03-11T14:55:50+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/categories/linux/</loc>
     <lastmod>2021-03-11T14:55:50+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/linux/cara-install-paru-di-linux/</loc>
     <lastmod>2021-03-09T14:31:47+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/pdf/jalur-belajar-web-development-2021-untuk-pemula/</loc>
     <lastmod>2021-03-05T16:11:10+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/rekomendasi/apa-itu-framework-dan-pengertianya/</loc>
     <lastmod>2021-03-01T18:55:52+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/kontributor/</loc>
     <lastmod>2021-02-25T14:01:58+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/kontributor/tips_yuk_gunakan_layanan_cdn_untuk_websitemu/</loc>
     <lastmod>2021-02-25T14:01:58+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/project/posts4/</loc>
     <lastmod>2021-02-20T04:48:14+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/project/</loc>
     <lastmod>2021-02-20T04:48:14+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/project/</loc>
     <lastmod>2021-02-20T04:48:14+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/lainya/cara-merubah-tampilan-chrome-menjadi-anime/</loc>
     <lastmod>2021-02-15T23:52:01+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/kontributor/cara-menginstall-osulazer-di-linux-dengan-benar/</loc>
     <lastmod>2021-02-14T08:26:36+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/kotributor/</loc>
     <lastmod>2021-02-14T08:26:36+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/project/posts3/</loc>
     <lastmod>2021-02-02T16:30:36+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/ui-design/wibucode-ui-app/</loc>
     <lastmod>2021-01-30T15:32:17+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/kontributor/cara-mendapatkan-klien-pertama/</loc>
     <lastmod>2021-01-18T11:03:35+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/rekomendasi/cara-mengetahui-teknologi-pada-website/</loc>
     <lastmod>2021-01-17T07:23:42+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/rekomendasi/cara-mengunakan-extensions-pada-google-chrome/</loc>
     <lastmod>2021-01-16T08:18:07+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/kontributor/</loc>
     <lastmod>2021-01-15T10:42:00+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/linux/cara-install-wps-office-di-linux/</loc>
     <lastmod>2021-01-15T10:42:00+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/ui-design/wibustream-app/</loc>
     <lastmod>2021-01-13T15:53:52+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/linux/cara-install-blender-di-linux/</loc>
     <lastmod>2021-01-13T06:09:12+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/html/belajar-html-2/</loc>
     <lastmod>2021-01-13T06:34:19+08:35</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/html/belajar-html-1/</loc>
     <lastmod>2021-01-12T06:34:19+07:35</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/html/pengenalan-html/</loc>
     <lastmod>2021-01-11T06:34:19+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/ui-design/wibustream/</loc>
     <lastmod>2021-01-10T08:54:08+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/faqs/</loc>
     <lastmod>2021-01-10T05:21:04+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/contact/</loc>
     <lastmod>2021-01-10T04:54:34+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/disclaimer/</loc>
     <lastmod>2021-01-09T12:36:16+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/kontributor/instalisasi-microsoft-office-di-lubuntu/</loc>
     <lastmod>2021-01-08T17:56:06+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/rekomendasi/bahasa-pemrograman-yg-populler-di-indonesia/</loc>
     <lastmod>2021-01-07T04:22:45+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/ui-design/landing-page-zero-two/</loc>
     <lastmod>2021-01-06T10:25:03+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/hugo/hugo-install-linux/</loc>
     <lastmod>2021-01-04T19:45:37+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tags/hugo/</loc>
     <lastmod>2021-01-04T19:45:37+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/categories/hugo/</loc>
     <lastmod>2021-01-04T19:45:37+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/hugo/menjalankan-hugo-di-local/</loc>
     <lastmod>2021-01-03T19:36:52+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/project/posts2/</loc>
     <lastmod>2021-01-01T00:27:00+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/linux/pindah-ke-linux/</loc>
     <lastmod>2020-12-31T16:41:03+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/project/posts1/</loc>
     <lastmod>2020-12-27T22:40:04+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/hugo/hugo-install-windows/</loc>
     <lastmod>2020-12-24T10:12:35+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/p/hugo/pengenalan/</loc>
     <lastmod>2020-12-20T17:14:09+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/project/posts/</loc>
     <lastmod>2020-12-19T21:58:15+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/about/</loc>
     <lastmod>2020-12-08T22:08:49+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/testimonials/</loc>
     <lastmod>2020-12-08T03:38:23+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/categorie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wibucode.com/tag/</loc>
   </url>
-  
 </urlset>
