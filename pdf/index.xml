@@ -6,7 +6,16 @@
     <description>Recent content in Ebook PDF on Wibucode: Web Tutorial Dan Komunitas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Sun, 21 Mar 2021 14:03:17 +0700</lastBuildDate><atom:link href="https://wibucode.com/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 19:42:09 +0700</lastBuildDate><atom:link href="https://wibucode.com/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belajar Pemrograman PHP Dan Mysql</title>
+      <link>https://wibucode.com/pdf/belajar-pemrograman-php-dan-mysql/</link>
+      <pubDate>Mon, 12 Apr 2021 19:42:09 +0700</pubDate>
+      
+      <guid>https://wibucode.com/pdf/belajar-pemrograman-php-dan-mysql/</guid>
+      <description>Description:* Buku ini disusun berdasarkan materi perkuliahan Pemrograman Web sesuai dengan kurikulum standar di perguruan tinggi komputer.</description>
+    </item>
+    
     <item>
       <title>Pengenalan Pemrograman Ruby</title>
       <link>https://wibucode.com/pdf/pengenalan-pemrograman-ruby/</link>
