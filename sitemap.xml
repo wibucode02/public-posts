@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wibucode.com/pdf/belajar-dasar-pemrograman-golang/</loc>
+    <lastmod>2021-05-02T11:59:51+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/pdf/</loc>
+    <lastmod>2021-05-02T11:59:51+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/tags/pdf/</loc>
+    <lastmod>2021-05-02T11:59:51+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/tags/</loc>
+    <lastmod>2021-05-02T11:59:51+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/</loc>
+    <lastmod>2021-05-02T11:59:51+07:00</lastmod>
+  </url><url>
     <loc>https://wibucode.com/event/</loc>
     <lastmod>2021-04-30T14:32:12+07:00</lastmod>
   </url><url>
@@ -18,12 +33,6 @@
     <lastmod>2021-04-26T22:18:28+07:00</lastmod>
   </url><url>
     <loc>https://wibucode.com/p/</loc>
-    <lastmod>2021-04-26T22:18:28+07:00</lastmod>
-  </url><url>
-    <loc>https://wibucode.com/tags/</loc>
-    <lastmod>2021-04-26T22:18:28+07:00</lastmod>
-  </url><url>
-    <loc>https://wibucode.com/</loc>
     <lastmod>2021-04-26T22:18:28+07:00</lastmod>
   </url><url>
     <loc>https://wibucode.com/tags/hugo/</loc>
@@ -54,12 +63,6 @@
     <lastmod>2021-04-15T22:03:06+07:00</lastmod>
   </url><url>
     <loc>https://wibucode.com/pdf/belajar-pemrograman-php-dan-mysql/</loc>
-    <lastmod>2021-04-12T19:42:09+07:00</lastmod>
-  </url><url>
-    <loc>https://wibucode.com/pdf/</loc>
-    <lastmod>2021-04-12T19:42:09+07:00</lastmod>
-  </url><url>
-    <loc>https://wibucode.com/tags/pdf/</loc>
     <lastmod>2021-04-12T19:42:09+07:00</lastmod>
   </url><url>
     <loc>https://wibucode.com/p/webdev/cara-membuat-newsletter-di-website/</loc>
