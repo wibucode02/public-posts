@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wibucode.com/p/html/belajar-html-5/</loc>
+    <lastmod>2021-05-06T13:54:47+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/categories/</loc>
+    <lastmod>2021-05-06T13:54:47+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/tags/html/</loc>
+    <lastmod>2021-05-06T13:54:47+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/categories/html/</loc>
+    <lastmod>2021-05-06T13:54:47+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/p/</loc>
+    <lastmod>2021-05-06T13:54:47+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/tags/</loc>
+    <lastmod>2021-05-06T13:54:47+07:00</lastmod>
+  </url><url>
+    <loc>https://wibucode.com/</loc>
+    <lastmod>2021-05-06T13:54:47+07:00</lastmod>
+  </url><url>
     <loc>https://wibucode.com/pdf/belajar-dasar-pemrograman-golang/</loc>
     <lastmod>2021-05-02T11:59:51+07:00</lastmod>
   </url><url>
@@ -11,28 +32,10 @@
     <loc>https://wibucode.com/tags/pdf/</loc>
     <lastmod>2021-05-02T11:59:51+07:00</lastmod>
   </url><url>
-    <loc>https://wibucode.com/tags/</loc>
-    <lastmod>2021-05-02T11:59:51+07:00</lastmod>
-  </url><url>
-    <loc>https://wibucode.com/</loc>
-    <lastmod>2021-05-02T11:59:51+07:00</lastmod>
-  </url><url>
     <loc>https://wibucode.com/event/</loc>
     <lastmod>2021-04-30T14:32:12+07:00</lastmod>
   </url><url>
     <loc>https://wibucode.com/p/html/belajar-html-4/</loc>
-    <lastmod>2021-04-26T22:18:28+07:00</lastmod>
-  </url><url>
-    <loc>https://wibucode.com/categories/</loc>
-    <lastmod>2021-04-26T22:18:28+07:00</lastmod>
-  </url><url>
-    <loc>https://wibucode.com/tags/html/</loc>
-    <lastmod>2021-04-26T22:18:28+07:00</lastmod>
-  </url><url>
-    <loc>https://wibucode.com/categories/html/</loc>
-    <lastmod>2021-04-26T22:18:28+07:00</lastmod>
-  </url><url>
-    <loc>https://wibucode.com/p/</loc>
     <lastmod>2021-04-26T22:18:28+07:00</lastmod>
   </url><url>
     <loc>https://wibucode.com/tags/hugo/</loc>
